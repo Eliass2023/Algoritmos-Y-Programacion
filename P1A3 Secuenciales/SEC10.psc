@@ -1,5 +1,5 @@
-// Elias Mirsha Vera León
-// Algoritmo que evalúa una expresión matematica (A+7*C)(B+2-A)+2*B
+// Elias Mirsha Vera LeÃ³n 555367
+// Algoritmo que evalÃºa una expresiÃ³n matematica (A+7*C)(B+2-A)+2*B
 Algoritmo SEC10
 	Definir A, B, C, D Como Real
 	Escribir 'Inserte un valor para A: '
@@ -9,5 +9,6 @@ Algoritmo SEC10
 	Escribir 'Inserte un valor para C: '
 	Leer C
 	D <- (A+7*C)/(B+2-A)+2*B
-	Escribir 'El resultado de la expresión (A+7*C)/(B+2-A)+2*B es: ', D
+	Escribir 'El resultado de la expresiÃ³n (A+7*C)/(B+2-A)+2*B es: ', D
 FinAlgoritmo
+
