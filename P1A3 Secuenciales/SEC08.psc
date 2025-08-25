@@ -1,3 +1,4 @@
+// Elias Mirsha Vera León 555367
 // Escribir una algoritmo que calcule la velocidad de un proyectil.
 // Expresar el resultado en metros/segundos.
 // Velocidad <- Espacio / Tiempo
@@ -12,3 +13,4 @@ Algoritmo SEC08
 	// Muestra el resultado en la consola
 	Escribir 'La velocidad es: ', Velocidad, ' m/s'
 FinAlgoritmo
+
