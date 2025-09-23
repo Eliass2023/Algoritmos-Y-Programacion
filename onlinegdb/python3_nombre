@@ -1,0 +1,3 @@
+print("¿Cuál es tu nombre?")          # Escribir "¿Cuál es tu nombre?" 
+nombre = input()                      # Leer nombre
+print("¡Que lindo nombre!", nombre)   # Escribir "¡Que lindo nombre!", nombre

@@ -1,0 +1,16 @@
+#include  <iostream> //librerias
+
+using namespace std;
+
+int main() {
+
+int A,B,C;
+A = 4;
+B = 3; 
+
+C = A + B;
+
+cout << C;
+
+	return 0;
+}

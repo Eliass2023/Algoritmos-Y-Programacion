@@ -1,0 +1,18 @@
+#include  <iostream> //librerias
+
+using namespace std;
+
+int main() {
+
+int A,B,C;
+cout << "Escribe el primer número: ";
+cin >> A;
+cout << "Escribe el segundo número: ";
+cin >> B;
+
+C = A + B;
+
+cout << C;
+
+	return 0;
+}

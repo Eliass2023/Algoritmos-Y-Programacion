@@ -1,0 +1,14 @@
+print("Introduce un número: ")
+A = int(input())
+print("Introduce otro número: ")
+B = int(input())
+
+S = A + B 
+R = A - B 
+M = A * B 
+D = round(A / B)
+
+print("La suma es: ", S)
+print("La resta es: ", R)
+print("La multiplicación es: ", M)
+print("La división es: ", D)

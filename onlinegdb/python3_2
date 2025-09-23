@@ -1,0 +1,5 @@
+Largo = int(input("Introduzca el largo: "))
+Ancho = int(input("Introduzca el ancho: "))
+
+
+print("El área del rectangulo es: ", Largo * Ancho)

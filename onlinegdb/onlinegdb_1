@@ -1,0 +1,11 @@
+#include  <iostream> //librerias
+
+using namespace std;
+
+int main() {
+
+//Escribir "Hola Mundo"
+	cout << "Hola Mundo";
+
+	return 0;
+}

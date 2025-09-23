@@ -1,0 +1,16 @@
+#include  <iostream> //librerias
+
+using namespace std;
+
+int main() {
+
+//Definir nombre como Cadena - PSEINT
+//tipoDato identificador
+	string nombre;
+	cout << "Cuál es tu nombre? "; //Escribir
+	     getline(cin,nombre); //Leer
+	     cout << "Que lindo nombre, " << nombre; cout << "."; 
+	     
+
+	return 0;
+}

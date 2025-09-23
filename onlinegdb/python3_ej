@@ -1,0 +1,8 @@
+# No se definen o declaran variable
+# No hay ;
+# Cuidar la sangria o indentación
+
+#Escribir ----> print()
+#Leer ----> input()
+
+print("Hola mundo.")
